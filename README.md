@@ -25,6 +25,10 @@ publisher: choose *More info* → *Run anyway*. `PLAYTEST.txt` inside has the co
   fall, run, rally, make last stands or surrender. Placeholder sound and music from free sources.
 - **One control scheme** on every screen, Total War style in battle, with the hotkey on every button and F1 for
   the whole list.
+- **Moddable.** Every weapon, people, unit, doctrine, army, rule and pose is a plain-text file under
+  `Doctrines_Data/StreamingAssets/Data`; a `Mods` folder with the same layout overrides or adds records, and F9
+  reloads them in the running game. The `Modding` folder inside the zip is the reference; the separate
+  [Doctrines editor](https://github.com/TMaluszynski/Doctrines-editor/releases) checks files and scaffolds mods.
 
 ## Feedback
 
